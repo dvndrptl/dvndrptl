@@ -1,0 +1,13 @@
+.main{
+  margin-top: 200px;
+width: 50%;
+}
+.main table{
+  text-align: center;
+}
+.input{
+  width: 70%;
+}
+.input input{
+  width: 200px;
+}
