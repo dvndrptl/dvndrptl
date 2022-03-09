@@ -29,7 +29,9 @@ export default function TableForData() {
     }).catch(e => { console.log(e) })
   },[change])
 
-
+const AddSub = ()=>{
+console.log("hello im adding")
+}
 
 
 
